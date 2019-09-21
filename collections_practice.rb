@@ -31,5 +31,5 @@ end
 
 def find_a(array)
   array.find_all do |blob|
-    blob
+    blob[0]
 end 
