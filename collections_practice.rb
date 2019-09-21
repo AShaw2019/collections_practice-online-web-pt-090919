@@ -34,3 +34,7 @@ def find_a(array)
     blob[0] == "a"
   end
 end 
+
+def sum_array(array)
+  
+end 
