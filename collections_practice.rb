@@ -31,5 +31,6 @@ end
 
 def find_a(array)
   array.find_all do |blob|
-    blob[0]
+    blob[0] == "a"
+    
 end 
