@@ -30,5 +30,6 @@ end
 end
 
 def find_a(array)
-  array.find_all
+  array.find_all do |blob|
+    
 end 
