@@ -36,5 +36,6 @@ def find_a(array)
 end 
 
 def sum_array()
-[11,4,7,8,9,100].inject {|sum, number| sum + number}
+[11,4,7,8,9,100].inject 
+{|sum, number| sum + number}
 end
