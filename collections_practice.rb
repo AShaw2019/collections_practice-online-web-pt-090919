@@ -30,5 +30,5 @@ end
 end
 
 def find_a(array)
-  
+  array.find_all
 end 
