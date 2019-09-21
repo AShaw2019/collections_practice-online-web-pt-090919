@@ -42,4 +42,5 @@ def sum_array(array)
   end
   sum
 end 
+end
 end 
